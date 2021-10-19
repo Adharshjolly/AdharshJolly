@@ -9,3 +9,6 @@
 - 🤔 I’m looking for a breakthrough in my development career 
 - 📨 Mail me at [adharshjolly23@gmail.com](mailto:adharshjolly23@gmail.com) 
 - 🙋‍♂️ Check out my [portfolio](https://aj-codes.web.app/)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdharshJolly)](https://github.com/anuraghazra/github-readme-stats)
